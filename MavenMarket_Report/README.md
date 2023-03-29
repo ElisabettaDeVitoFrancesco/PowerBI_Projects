@@ -6,6 +6,8 @@ The Maven Market project was prepared from the base of the instructions of Chris
 
 ## Scope
 
+
+
 ## Report
 ### Topline Performance
 
