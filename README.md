@@ -23,7 +23,7 @@ The Maven Market project was prepared from the base of the instructions of Chris
 
 ### Scope
 
-The role of Lead Business Intelligence Analyst for Adventure Works Cycles, a multi-national grocery chain with locations in Canada, Mexico and the United States, was mimicked for this project.
+The role of Lead Business Intelligence Analyst for Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States, was mimicked for this project.
 
 The goal of this analysis was to design and deliver a professional-quality, end-to-end business intelligence solution for the company, with Power BI and a raw csv files.
 
